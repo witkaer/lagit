@@ -1,2 +1,2 @@
 # lagit
-Linux Academy - Git related tutorials and practice sessions
+Linux Academy | Git related tutorials and practice sessions
